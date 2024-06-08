@@ -1,0 +1,47 @@
+body {    
+    background-color: #216e9b;
+    font-family: 'Courier New', Courier, monospace;
+    color:#3d1348 ;
+}
+.nav_bar {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.container {
+    margin-top: 30px;
+}
+.row {
+}
+.col-8 {
+}
+.col-4 {
+}
+.col-3.nav_logo {
+}
+.col-9 {
+}
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.img_size {
+}
+.title_photo {
+    text-align: center;
+}
+
+.photopopug {
+    background: url(../image/Popug.jpg) no-repeat center center;
+    background-size:  100%;
+    width: 187px;
+    height: 353px;
+}
+
+.nav_logo {
+    background: url(../image/podrooms_400x400-large_logo.jpg) no-repeat center center;
+    background-size:  100%;
+    width: 74px;
+    height: 82px;
+}
